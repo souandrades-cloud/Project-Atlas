@@ -2,9 +2,11 @@
 
 ## Visão Geral
 
-O Project Atlas é o sistema operacional interno de uma empresa de soluções digitais.
+O Project Atlas é uma empresa de soluções digitais — a evolução e o novo nome da Zyno — que combina estratégia, tecnologia, automação e inteligência artificial para ajudar negócios locais a crescer.
 
-Seu objetivo é organizar, automatizar e padronizar todos os processos da empresa em um único ambiente.
+O nome "Atlas" também dá nome ao sistema operacional interno que a própria empresa usa pra organizar sua operação: ele organiza, automatiza e padroniza todos os processos do negócio em um único ambiente.
+
+Ou seja, o Atlas é ao mesmo tempo a empresa e a plataforma interna que ela constrói pra si mesma — e, no futuro, pode virar produto pros próprios clientes também.
 
 O Atlas centraliza clientes, projetos, tarefas, documentos, financeiro, automações e inteligência artificial.
 
@@ -41,7 +43,7 @@ O Project Atlas centraliza essas informações e cria um fluxo de trabalho organ
 
 # Público Inicial
 
-O Atlas será utilizado inicialmente por uma empresa de soluções digitais focada em ajudar negócios locais e profissionais liberais a melhorar sua presença digital.
+O Atlas (empresa) foca inicialmente em ajudar negócios locais e profissionais liberais a melhorar sua presença digital.
 
 Primeiro nicho:
 
